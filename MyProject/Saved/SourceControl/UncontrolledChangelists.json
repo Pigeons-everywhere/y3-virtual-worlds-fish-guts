@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/T.Korcova1/Documents/GitHub/y3-virtual-worlds-fish-guts/MyProject/Content/Input/Actions/IA_Move.uasset",
+				"C:/Users/T.Korcova1/Documents/GitHub/y3-virtual-worlds-fish-guts/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/T.Korcova1/Documents/GitHub/y3-virtual-worlds-fish-guts/MyProject/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/QY/FSMNL3KLM133J5VKZAU0BE.uasset",
+				"C:/Users/T.Korcova1/Documents/GitHub/y3-virtual-worlds-fish-guts/MyProject/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/BL/WB7S47W2IE4F23EZ9SLQ1B.uasset",
 				"C:/Users/T.Korcova1/Documents/GitHub/y3-virtual-worlds-elective/MyProject/Content/NewLevel/FishGuts.umap",
 				"C:/Users/T.Korcova1/Documents/GitHub/y3-virtual-worlds-elective/MyProject/Content/FirstPerson/gutModel/Hose002.uasset",
 				"C:/Users/T.Korcova1/Documents/GitHub/y3-virtual-worlds-elective/MyProject/Content/FirstPerson/gutModel/Hose001.uasset",
