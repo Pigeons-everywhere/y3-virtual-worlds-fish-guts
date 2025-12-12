@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\terez\\OneDrive\\Dokumenty\\GitHub\\y3-virtual-worlds-fish-guts\\MyProject\\Intermediate\\Source\\MyProject.Build.cs",
+		"C:\\Users\\terez\\OneDrive\\Dokumenty\\GitHub\\y3-virtual-worlds-fish-guts\\MyProject\\Intermediate\\Source\\MyProject.Target.cs",
+		"C:\\Users\\terez\\OneDrive\\Dokumenty\\GitHub\\y3-virtual-worlds-fish-guts\\MyProject\\Intermediate\\Source\\MyProjectClient.Target.cs",
+		"C:\\Users\\terez\\OneDrive\\Dokumenty\\GitHub\\y3-virtual-worlds-fish-guts\\MyProject\\Intermediate\\Source\\MyProjectEditor.Target.cs",
+		"C:\\Users\\terez\\OneDrive\\Dokumenty\\GitHub\\y3-virtual-worlds-fish-guts\\MyProject\\Intermediate\\Source\\MyProjectServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
